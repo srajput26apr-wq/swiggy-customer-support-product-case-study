@@ -1,0 +1,29 @@
+swiggy-customer-support-product-case-study/
+│
+├── README.md
+│
+├── 01-Problem-Statement/
+│   └── business-problem.md
+│
+├── 02-Customer-Research/
+│   ├── customer-segments.md
+│   └── persona.md
+│
+├── 03-Customer-Journey/
+│   └── journey-map.md
+│
+├── 04-Root-Cause-Analysis/
+│   └── root-cause-analysis.md
+│
+├── 05-Product-Solution/
+│   └── product-recommendations.md
+│
+├── 06-Roadmap-and-Metrics/
+│   ├── product-roadmap.md
+│   └── success-metrics.md
+│
+├── 07-Presentation/
+│   └── swiggy-case-study.pdf
+│
+└── assets/
+    └── images/
